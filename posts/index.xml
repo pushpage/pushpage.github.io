@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Skeletron</title>
-    <link>https://hanonno.gitlab.io/homepage/posts/</link>
+    <link>https://pushpage.github.io/posts/</link>
     <description>Recent content in Posts on Skeletron</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hanonno.gitlab.io/homepage/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pushpage.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://hanonno.gitlab.io/homepage/posts/2019-04-10-untitled-note-1/</link>
+      <link>https://pushpage.github.io/posts/2019-04-10-untitled-note-1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hanonno.gitlab.io/homepage/posts/2019-04-10-untitled-note-1/</guid>
+      <guid>https://pushpage.github.io/posts/2019-04-10-untitled-note-1/</guid>
       <description>Write something nice&amp;hellip; Strike </description>
     </item>
     
     <item>
       <title>Your First Push Page</title>
-      <link>https://hanonno.gitlab.io/homepage/posts/2019-04-11-untitled-note-2/</link>
+      <link>https://pushpage.github.io/posts/2019-04-11-untitled-note-2/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hanonno.gitlab.io/homepage/posts/2019-04-11-untitled-note-2/</guid>
+      <guid>https://pushpage.github.io/posts/2019-04-11-untitled-note-2/</guid>
       <description>Write something nice&amp;hellip;</description>
     </item>
     
     <item>
       <title>Your First Push Page</title>
-      <link>https://hanonno.gitlab.io/homepage/posts/2019-04-11-untitled-note-3/</link>
+      <link>https://pushpage.github.io/posts/2019-04-11-untitled-note-3/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hanonno.gitlab.io/homepage/posts/2019-04-11-untitled-note-3/</guid>
+      <guid>https://pushpage.github.io/posts/2019-04-11-untitled-note-3/</guid>
       <description>This is going to be great!</description>
     </item>
     

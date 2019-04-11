@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hanonno.gitlab.io/homepage/posts/2019-04-10-untitled-note-1/</loc>
+    <loc>https://pushpage.github.io/posts/2019-04-10-untitled-note-1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanonno.gitlab.io/homepage/posts/2019-04-11-untitled-note-2/</loc>
+    <loc>https://pushpage.github.io/posts/2019-04-11-untitled-note-2/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanonno.gitlab.io/homepage/posts/2019-04-11-untitled-note-3/</loc>
+    <loc>https://pushpage.github.io/posts/2019-04-11-untitled-note-3/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hanonno.gitlab.io/homepage/categories/</loc>
+    <loc>https://pushpage.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hanonno.gitlab.io/homepage/posts/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hanonno.gitlab.io/homepage/</loc>
+    <loc>https://pushpage.github.io/posts/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://hanonno.gitlab.io/homepage/tags/</loc>
+    <loc>https://pushpage.github.io/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pushpage.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
