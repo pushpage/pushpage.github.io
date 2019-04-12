@@ -26,7 +26,9 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pushpage.github.io/posts/2019-04-11-untitled-note-2/</guid>
-      <description>Write something nice&amp;hellip;</description>
+      <description>Write something nice&amp;hellip;
+Nicers
+Hello World!</description>
     </item>
     
     <item>
@@ -35,7 +37,26 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://pushpage.github.io/posts/2019-04-11-untitled-note-3/</guid>
-      <description>This is going to be great!</description>
+      <description>This is going to be great!
+Hello World</description>
+    </item>
+    
+    <item>
+      <title>Your First Push Page</title>
+      <link>https://pushpage.github.io/posts/2019-04-12-untitled-note-1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pushpage.github.io/posts/2019-04-12-untitled-note-1/</guid>
+      <description>Write something nice&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Your First Push Page</title>
+      <link>https://pushpage.github.io/posts/2019-04-12-untitled-note-2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://pushpage.github.io/posts/2019-04-12-untitled-note-2/</guid>
+      <description>Write something nice&amp;hellip; </description>
     </item>
     
   </channel>
