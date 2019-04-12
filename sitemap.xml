@@ -3,35 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pushpage.github.io/posts/2019-04-10-untitled-note-1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushpage.github.io/posts/2019-04-12-untitled-note-1/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://pushpage.github.io/categories/</loc>
+    <loc>http://localhost/homepage/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pushpage.github.io/posts/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost/homepage/posts/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pushpage.github.io/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost/homepage/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://pushpage.github.io/tags/</loc>
+    <loc>http://localhost/homepage/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost/homepage/posts/2019-14-03-welcome-to-my-blog/</loc>
   </url>
   
 </urlset>
